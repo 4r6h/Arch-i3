@@ -38,3 +38,4 @@ cd Arch-i3
 
 ![image info](screenshots/1.png)
 ![image info](screenshots/2.png)
+![image info](screenshots/3.png)
